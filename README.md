@@ -1,6 +1,4 @@
-Here is your README with the **percentages removed from the Skills section**, keeping everything else exactly the same:
 
----
 
 <div align="center">
 
